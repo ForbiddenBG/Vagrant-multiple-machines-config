@@ -1,0 +1,1 @@
+Basic configuration for multiple vagrant machines based on Debian 11.
